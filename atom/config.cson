@@ -2,12 +2,16 @@
   "atom-package-sync": {}
   core:
     telemetryConsent: "limited"
+    titleBar: "custom-inset"
   editor:
-    fontSize: 13
-    showIndentGuide: true
+    fontSize: 12
+    multiCursorOnClick: true
   "exception-reporting":
     userId: "bf94546e-3a98-4b57-9e2e-0b7d9dc2220e"
-  "tree-view":
-    hideVcsIgnoredFiles: true
+  hyperclick: {}
+  "linter-ruby": {}
+  "linter-ui-default": {}
+  "rails-i18n-plus": {}
+  "tree-view": {}
   welcome:
     showOnStartup: false
